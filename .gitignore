@@ -1,0 +1,25 @@
+# Dependency folders
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+instance/
+
+# Log files
+*.log
+
+# Build artifacts or temp files
+dist/
+temp/
+
+.vscode/
+
+# IDE specific files
+.idea/  
+# Operating system files
+.DS_Store
+
